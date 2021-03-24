@@ -1,5 +1,6 @@
 # API_ConsultaCnpj
-API com operação Crud , Cadastro de dados do Cnpj , Consulta de dados e Armazenamento no Banco de dados em nuvem.  
+API com operação Crud , Cadastro de dados do Cnpj , Consulta de dados e Armazenamento no Banco de dados em nuvem. 
+com  retorno da  resposta em JSON.
 
 Esta Api tem uma abordagem simples, sendo possivel continuar a implementação de novos Crud e novos campos de dados.
 
@@ -21,14 +22,17 @@ Para Debug, usar endereço abaixo:
 HTTPS://LOCALHOST: 5001/DadosCnpj
 
 
+
 GET : Buscar sem pontuação
 
+PREVIEW
 https://github.com/VERONICABORGES/API_ConsultaCnpj/blob/c9b1e72573ff73a949dbe9e432d75d3286147f94/Localhost%20JSON.gif
 
 
 
 POST
 
+PREVIEW
 https://github.com/VERONICABORGES/API_ConsultaCnpj/blob/c9b1e72573ff73a949dbe9e432d75d3286147f94/Post.gif
 
 
